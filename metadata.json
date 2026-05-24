@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Scorer",
+  "description": "A match scorecard that lets you track and share scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
